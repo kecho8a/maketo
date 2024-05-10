@@ -417,10 +417,15 @@ footer{
     grid-template-columns: 1fr;
     
    }
-      .footer-a{
+.footer-a{
   width: 100%;
  }
  .footer-b{
   margin-top: 10%;
+  width: 100%;
  }
+ .footer-b img{
+  width: 50px;
+ }
+ 
   }
