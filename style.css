@@ -417,6 +417,9 @@ footer{
     grid-template-columns: 1fr;
     
    }
+      .footer-a{
+  width: 100%;
+ }
  .footer-b{
   margin-top: 10%;
  }
